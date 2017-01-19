@@ -1,7 +1,7 @@
 language: haxe
 haxe:
-	- "3.2.1"
-	- master
+  - "3.2.1"
+  - master
 
 script:
-	- haxe build.hxml
+  - haxe build.hxml
