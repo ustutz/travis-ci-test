@@ -1,0 +1,13 @@
+{
+  "name": "travis-ci-test",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "ustutz"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "url": "https://github.com/ustutz/travis-ci-test/",
+  "dependencies": {}
+}
